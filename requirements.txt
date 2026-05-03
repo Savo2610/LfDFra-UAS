@@ -1,5 +1,0 @@
-Jupyter
-matplotlib
-numpy
-pandas
-mlxtend
